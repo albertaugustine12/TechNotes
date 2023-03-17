@@ -41,5 +41,12 @@ npm run start
     }
 ```
 
+### Gihhub pages setup
+Followed instructions in the [documentation](https://docusaurus.io/docs/deployment#deploying-to-github-pages) to use workflow to build and publish the doc site.
+
+GH Pages workflow reference - https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
+
+
+
 
 
