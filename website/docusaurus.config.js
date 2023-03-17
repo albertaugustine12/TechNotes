@@ -20,6 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'albertaugustine12', // Usually your GitHub org/user name.
   projectName: 'TechNotes', // Usually your repo name.
+  // deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
