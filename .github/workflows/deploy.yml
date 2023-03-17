@@ -19,13 +19,16 @@ jobs:
           cache: yarn
 
       - name: Install dependencies
+        working-directory: website
         run: yarn install --frozen-lockfile
       - name: Build website
+        working-directory: website
         run: yarn build
       
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
       - name: Deploy to Github Pages
+        working-directory: website
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
