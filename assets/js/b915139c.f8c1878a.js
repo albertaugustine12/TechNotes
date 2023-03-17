@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[522],{1222:t=>{t.exports=JSON.parse('{"label":"GitHub","permalink":"/TechNotes/tags/git-hub","allTagsPath":"/TechNotes/tags","count":1,"items":[{"id":"GitHub/GitHub Actions","title":"GitHub Action","description":"Anuthing Everything about GH actions","permalink":"/TechNotes/GitHub/githubaction"}]}')}}]);
