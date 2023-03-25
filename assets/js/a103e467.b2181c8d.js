@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[829],{3902:e=>{e.exports=JSON.parse('{"label":"jdk","permalink":"/TechNotes/tags/jdk","allTagsPath":"/TechNotes/tags","count":1,"items":[{"id":"Languages/Java/java setup","title":"Java","description":"notes about java setup and related issues","permalink":"/TechNotes/Languages/Java/kafka-setup"}]}')}}]);
